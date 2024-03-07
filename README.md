@@ -1,1 +1,1 @@
-Personal webpage to house projects and information.
+Personal webpage to house projects (WIP).
