@@ -27,7 +27,8 @@ visitTodoApp.addEventListener("click", () => {
 });
 
 visitDecimalToBinaryConverter.addEventListener("click", () => {
-  window.location.href = "./JS_A+DSA_FCC_Cert/Decimal-to-Binary-Converter/index.html";
+  window.location.href = "./JS_A+DSA_FCC_Cert/Decimal-To-Binary-Converter/index.html";
+  
 });
 
 visitRomanNumeralConverter.addEventListener("click", () => {
